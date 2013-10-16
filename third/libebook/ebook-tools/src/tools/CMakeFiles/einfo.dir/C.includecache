@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/src/gale/gale-reader/third/libebook/ebook-tools/src/tools/einfo.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+epub.h
+-
+
+src/libepub/epub.h
+epub_shared.h
+-
+
+src/libepub/epub_shared.h
+

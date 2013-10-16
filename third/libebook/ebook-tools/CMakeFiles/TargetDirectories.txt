@@ -1,0 +1,3 @@
+/src/gale/gale-reader/third/libebook/ebook-tools/CMakeFiles/doc.dir
+/src/gale/gale-reader/third/libebook/ebook-tools/src/tools/CMakeFiles/einfo.dir
+/src/gale/gale-reader/third/libebook/ebook-tools/src/libepub/CMakeFiles/epub.dir

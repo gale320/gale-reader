@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -W -Wno-long-long -Wundef -Wcast-align -Werror-implicit-function-declaration -Wchar-subscripts -Wpointer-arith -Wwrite-strings -Wformat-security -Wmissing-format-attribute -Wshadow -fno-common     CMakeFiles/einfo.dir/einfo.o  -o ../../bin/einfo -rdynamic ../../libs/libepub.so.0.2.1 -lzip -lxml2 -Wl,-rpath,/src/gale/gale-reader/third/libebook/ebook-tools/libs: 

@@ -1,0 +1,6 @@
+[submodule "third/glib"]
+	path = third/glib
+	url = https://git.gnome.org/browse/glib
+[submodule "third/poppler"]
+	path = third/poppler
+	url = git://git.freedesktop.org/git/poppler/poppler
